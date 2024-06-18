@@ -1,4 +1,4 @@
-# -Previs-o-de-Estoque-Inteligente-na-AWS-com-Sagemaker-Canvas
+# Previsão-de-Estoque-Inteligente-na-AWS-com-Sagemaker-Canvas
 
 Para começar, vou organizar o projeto em módulos para facilitar o entendimento e a execução. Teremos os seguintes módulos no projeto:
 
